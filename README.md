@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Cyberpunk Software Engineering</b><br/>
+  <b>Software Engineering</b><br/>
   Systems • Strategy • Automation
 </p>
 
