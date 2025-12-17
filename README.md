@@ -55,17 +55,20 @@ Anime-inspired Software Development Company
 
 ---
 
-## 🎴 Anime Visual Identity (Neutral / Tech / SFW)
+## 🎴 Visual Identity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/linux/linux-original.svg" width="90"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="90"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="90"/>
+  <img 
+    src="https://raw.githubusercontent.com/AIs-Dev/AIs-Dev/main/assets/anime/night-anime.jpg"
+    width="420"
+    alt="AIs Dev anime visual"
+  />
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1606112219348-204d7d8b94ee?auto=format&fit=crop&w=900&q=80" width="420"/>
+  <i>Anime-inspired, neutral, night-tech aesthetic</i>
 </p>
+
 
 
 ---
