@@ -51,19 +51,6 @@
 
 ---
 
-## ▓ INTERACTIVE CHESS PROTOCOL ♟️
-
-Шахматы — модель системного мышления и принятия решений.
-
-<p align="center">
-  <a href="https://ais-dev.github.io/chess/" target="_blank">
-    <img src="https://img.shields.io/badge/LAUNCH-CHESS%20SYSTEM-00ffe1?style=for-the-badge"/>
-  </a>
-</p>
-
-> Every move modifies the system state.
-
----
 
 ## ▓ ENGINEERING PRINCIPLES
 
