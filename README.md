@@ -1,11 +1,11 @@
-# 🌸 AIs Dev
+# AIs Dev
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="140"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="140"/>
 </p>
 
 <h3 align="center">
-Anime-inspired Software Development Team
+Anime-inspired Software Development Company
 </h3>
 
 ---
@@ -13,71 +13,68 @@ Anime-inspired Software Development Team
 ## 🚀 About AIs Dev
 
 **AIs Dev** — команда разработчиков, создающая современные программные решения  
-с акцентом на качество кода, автоматизацию и эстетику.
+с упором на инженерное мышление, автоматизацию и архитектуру.
 
-> Technology • Creativity • Strategy ♟️
+> Engineering • Strategy • Discipline ♟️
 
 ---
 
-## 📊 Company GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AIs-Dev&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AIs-Dev&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AIs-Dev&show_icons=true&theme=github_dark&hide_title=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AIs-Dev&theme=github-dark" height="165"/>
 </p>
 
 ---
 
-## 📈 Commit Activity Graph
+## 📈 Commit Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIs-Dev&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIs-Dev&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 💻 Languages Used
+## 💻 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIs-Dev&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIs-Dev&layout=compact&theme=github_dark"/>
 </p>
 
 ---
 
-## ♟️ Chess & Strategy
+## ♟️ Chess & Engineering Mindset
 
-Мы ценим **шахматы** как основу инженерного и стратегического мышления.
+Шахматы — модель инженерного мышления:
+- расчёт на несколько шагов вперёд  
+- контроль рисков  
+- дисциплина решений  
 
-- ♟️ Strategic planning  
-- ♟️ Analytical decisions  
-- ♟️ Precision & discipline  
-
-> Code is like chess — every move matters.
-
----
-
-## 🌸 Anime Visual Identity (SFW)
-
-<p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.jpg" width="260"/>
-  <img src="https://i.imgur.com/JR6p0Yh.jpg" width="260"/>
-  <img src="https://i.imgur.com/YW5pG1h.jpg" width="260"/>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/QM0FZKp.jpg" width="260"/>
-  <img src="https://i.imgur.com/4M7IWwP.jpg" width="260"/>
-</p>
-
-> Аниме-эстетика используется как часть бренда.  
-> Только SFW, аккуратно и профессионально.
+> Good code is strategic.
 
 ---
 
-## 🛠️ Tech Philosophy
+## 🎴 Anime Visual Identity (Neutral / Tech / SFW)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/linux/linux-original.svg" width="90"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="90"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="90"/>
+</p>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1606112219348-204d7d8b94ee?auto=format&fit=crop&w=900&q=80" width="420"/>
+</p>
+
+
+---
+
+## 🛠️ Engineering Principles
 
 ```text
-Clean Code
+Clean Architecture
 Automation First
-Scalable Architecture
+Predictable Delivery
 Continuous Improvement
+
