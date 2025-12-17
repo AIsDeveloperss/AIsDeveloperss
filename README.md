@@ -5,17 +5,15 @@
 </p>
 
 <h3 align="center">
-Anime-inspired Software Development Company
+Engineering • Strategy • Anime-inspired Tech
 </h3>
 
 ---
 
-## 🚀 About AIs Dev
+## 🚀 About
 
-**AIs Dev** — команда разработчиков, создающая современные программные решения  
-с упором на инженерное мышление, автоматизацию и архитектуру.
-
-> Engineering • Strategy • Discipline ♟️
+**AIs Dev** — команда разработчиков, создающая инженерные решения  
+с упором на архитектуру, автоматизацию и стратегическое мышление.
 
 ---
 
@@ -31,53 +29,4 @@ Anime-inspired Software Development Company
 ## 📈 Commit Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIs-Dev&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 💻 Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIs-Dev&layout=compact&theme=github_dark"/>
-</p>
-
----
-
-## ♟️ Chess & Engineering Mindset
-
-Шахматы — модель инженерного мышления:
-- расчёт на несколько шагов вперёд  
-- контроль рисков  
-- дисциплина решений  
-
-> Good code is strategic.
-
----
-
-## 🎴 Visual Identity
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/AIs-Dev/AIs-Dev/main/assets/anime/night-anime.jpg"
-    width="420"
-    alt="AIs Dev anime visual"
-  />
-</p>
-
-<p align="center">
-  <i>Anime-inspired, neutral, night-tech aesthetic</i>
-</p>
-
-
-
----
-
-## 🛠️ Engineering Principles
-
-```text
-Clean Architecture
-Automation First
-Predictable Delivery
-Continuous Improvement
-
+  <img src="https://github-readme-activity-
