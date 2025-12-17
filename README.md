@@ -1,76 +1,77 @@
 # AIs Dev
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="140"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffe1,100:7f00ff&height=120&section=header&text=AIs%20Dev&fontSize=42&fontColor=ffffff"/>
 </p>
-
-<h3 align="center">
-Engineering • Strategy 
-</h3>
-
----
-
-## 🚀 About
-
-**AIs Dev** — команда разработчиков, создающая инженерные решения  
-с упором на архитектуру, автоматизацию и стратегическое мышление.
-
----
-
-## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AIs-Dev&show_icons=true&theme=github_dark&hide_title=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AIs-Dev&theme=github-dark" height="165"/>
+  <b>Cyberpunk Software Engineering</b><br/>
+  Systems • Strategy • Automation
 </p>
 
 ---
 
-## 📈 Commit Graph
+## ▓ ABOUT
+
+**AIs Dev** — инженерная команда, создающая программные системы  
+для сложных и высоконагруженных сред.
+
+Фокус:
+- архитектура
+- контроль
+- автоматизация
+- стратегическое мышление
+
+> Code is infrastructure.
+
+---
+
+## ▓ SYSTEM METRICS
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIs-Dev&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AIs-Dev&show_icons=true&theme=radical&hide_title=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AIs-Dev&theme=radical" height="165"/>
 </p>
 
 ---
 
-## ♟️ Play Chess (Interactive)
+## ▓ ACTIVITY GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIs-Dev&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## ▓ CORE LANGUAGES
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIs-Dev&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## ▓ INTERACTIVE CHESS PROTOCOL ♟️
+
+Шахматы — модель системного мышления и принятия решений.
 
 <p align="center">
   <a href="https://ais-dev.github.io/chess/" target="_blank">
-    <img src="https://raw.githubusercontent.com/lichess-org/lila/master/public/images/board/blue.svg" width="320"/>
+    <img src="https://img.shields.io/badge/LAUNCH-CHESS%20SYSTEM-00ffe1?style=for-the-badge"/>
   </a>
 </p>
 
-<p align="center">
-  ▶ <strong><a href="https://ais-dev.github.io/chess/">Play Chess</a></strong>
-</p>
-
-> Шахматы — модель инженерного мышления:  
-> расчёт, дисциплина, стратегия.
+> Every move modifies the system state.
 
 ---
 
-## 🎴 Visual Identity (Anime • Night • Neutral)
-
-<p align="center">
-  <img 
-    src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=900&q=80"
-    width="420"
-  />
-</p>
-
-<p align="center">
-  <i>Neutral anime-inspired night aesthetic</i>
-</p>
-
----
-
-## 🛠️ Engineering Principles
+## ▓ ENGINEERING PRINCIPLES
 
 ```text
-Clean Architecture
-Automation First
+Deterministic Architecture
+Automation Over Manual Control
+Observability First
 Strategic Thinking
-Predictable Delivery
-Continuous Improvement
+
+---
+
